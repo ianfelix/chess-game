@@ -1,5 +1,8 @@
 <h1 align="center">Welcome to Chess Game 👋</h1>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/62842327/102691169-57228e80-41e9-11eb-8e55-0bdb17da4e47.png" />
+</div>
 
 To see it in production
 
