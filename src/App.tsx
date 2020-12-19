@@ -1,11 +1,8 @@
-import React from 'react';
+import ChessBoard from './shared/components/ChessBoard';
+import './shared/styles/styles.css';
 
 function App() {
-  return (
-    <div className='App'>
-      <h1>Hello World!!</h1>
-    </div>
-  );
+  return <ChessBoard />;
 }
 
 export default App;
