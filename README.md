@@ -6,7 +6,7 @@
 
 To see it in production
 
-<a href="https://chess-game-pink.vercel.app/" target="_blanck">Chess Gane<a/>
+<a href="https://chess-game-pink.vercel.app/" target="_blanck">Chess Game<a/>
 
 
 ### 🏠 [Homepage](https://github.com/ianfelix/chess-game#readme)
