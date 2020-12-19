@@ -1,5 +1,5 @@
-import ChessBoard from './shared/components/ChessBoard';
-import './shared/styles/styles.css';
+import { ChessBoard } from './shared/components/ChessBoard';
+import './shared/styles/global.css';
 
 function App() {
   return <ChessBoard />;
